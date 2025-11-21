@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-21 18:30:18,http://bxtv.3a.ink/migu.php?id=cctv2$订阅源
+2025-11-22 06:27:19,http://bxtv.3a.ink/migu.php?id=cctv2$订阅源
 
 📺央视频道,#genre#
 CCTV-2,http://bxtv.3a.ink/migu.php?id=cctv2$订阅源
@@ -13,14 +13,12 @@ CCTV-7,http://bxtv.3a.ink/migu.php?id=cctv7$订阅源
 CCTV-8,http://bxtv.3a.ink/migu.php?id=cctv8$订阅源
 CCTV-9,http://bxtv.3a.ink/migu.php?id=cctv9$订阅源
 CCTV-10,http://bxtv.3a.ink/migu.php?id=cctv10$订阅源
-CCTV-10,http://112.6.239.227:8207/hls/11/index.m3u8$订阅源
-CCTV-10,http://112.6.239.227:8207/hls/11/index.m3u8$订阅源
 CCTV-11,http://bxtv.3a.ink/migu.php?id=cctv11$订阅源
 CCTV-11,http://112.6.239.227:8207/hls/12/index.m3u8$订阅源
-CCTV-11,http://116.128.242.83:9901/tsfile/live/0012_1.m3u8$订阅源
-CCTV-11,http://116.128.242.83:9901/tsfile/live/0012_1.m3u8$订阅源
+CCTV-11,http://112.6.239.227:8207/hls/12/index.m3u8$订阅源
 CCTV-12,http://bxtv.3a.ink/migu.php?id=cctv12$订阅源
 CCTV-12,http://112.6.239.227:8207/hls/13/index.m3u8$订阅源
+CCTV-12,http://116.128.242.83:9901/tsfile/live/0013_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0$订阅源
 CCTV-12,http://116.128.242.83:9901/tsfile/live/0013_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0$订阅源
 CCTV-13,http://bxtv.3a.ink/migu.php?id=cctv13$订阅源
 CCTV-13,http://112.6.239.227:8207/hls/14/index.m3u8$订阅源
@@ -83,8 +81,6 @@ CCTV-17,http://bxtv.3a.ink/migu.php?id=cctv17$订阅源
 四川卫视,http://112.6.239.227:8207/hls/27/index.m3u8$订阅源
 四川卫视,http://116.128.242.83:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 深圳卫视,http://112.6.239.227:8207/hls/20/index.m3u8$订阅源
-深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8$订阅源
-深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8$订阅源
 深圳卫视,http://116.128.242.83:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 天津卫视,http://112.6.239.227:8207/hls/18/index.m3u8$订阅源
 天津卫视,http://116.128.242.83:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
