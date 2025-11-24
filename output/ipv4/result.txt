@@ -1,16 +1,15 @@
 🕘️更新时间,#genre#
-2025-11-24 18:33:06,http://112.6.239.227:8207/hls/14/index.m3u8$订阅源
+2025-11-25 06:26:57,http://116.128.242.83:9901/tsfile/live/0015_1.m3u8$订阅源
 
 📺央视频道,#genre#
-CCTV-13,http://112.6.239.227:8207/hls/14/index.m3u8$订阅源
-CCTV-13,http://112.6.239.227:8207/hls/14/index.m3u8$订阅源
-CCTV-14,http://116.128.242.83:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-14,http://116.128.242.83:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+CCTV-14,http://116.128.242.83:9901/tsfile/live/0015_1.m3u8$订阅源
+CCTV-14,http://116.128.242.83:9901/tsfile/live/0015_1.m3u8$订阅源
 CCTV-15,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0$订阅源
 
 📡卫视频道,#genre#
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4$订阅源
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4$订阅源
+广东卫视,http://112.6.239.227:8207/hls/22/index.m3u8$订阅源
 广东卫视,http://112.6.239.227:8207/hls/22/index.m3u8$订阅源
 广东卫视,http://116.128.242.83:9901/tsfile/live/0124_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0$订阅源
 浙江卫视,http://112.6.239.227:8207/hls/16/index.m3u8$订阅源
